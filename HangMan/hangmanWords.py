@@ -1,0 +1,2 @@
+hangman_words = ["baboon", "phone", "ra", "extrapolate", "vulkan", "python", "c", "java", "zeus", "hera", "ghost",
+                 "hack, banana", "osiris", "graphics", "viking", "wine", "bear", "bordeaux", "barolo", "barbaresco"]
